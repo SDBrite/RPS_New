@@ -92,7 +92,6 @@ h1
 #send-message 
 {
     text-align: center;
-    position: relative;
     background: rgb(212, 33, 33);
     font-size: 25px;
     font-weight: bold;
@@ -102,7 +101,6 @@ h1
     border-radius: 5px;
     left: 50%;
     margin-left: -95px;
-    margin-top: 100px;
     padding: 4px 10px 5px 10px;
     font-style: italic;
 }
