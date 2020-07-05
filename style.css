@@ -91,6 +91,7 @@ h1
 }
 #send-message 
 {
+    position: relative;
     text-align: center;
     background: rgb(212, 33, 33);
     font-size: 25px;
